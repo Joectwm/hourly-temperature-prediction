@@ -1,8 +1,6 @@
-import json
 import argparse
 import requests
 from pathlib import Path
-from datetime import datetime
 
 
 class WeatherCollector:
